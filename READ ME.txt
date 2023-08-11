@@ -1,3 +1,5 @@
+I cannot upload the CSV file of the clean data, because it is very large (138mb). You can download the original and use my R file.
+
 All data sets:
 https://divvy-tripdata.s3.amazonaws.com/index.html
 
