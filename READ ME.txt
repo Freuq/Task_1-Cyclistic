@@ -1,0 +1,7 @@
+All data sets:
+https://divvy-tripdata.s3.amazonaws.com/index.html
+
+My all work on Tableau:
+https://public.tableau.com/app/profile/alfredo.blanco
+
+Thanks!<3
